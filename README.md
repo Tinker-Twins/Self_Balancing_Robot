@@ -3,4 +3,4 @@ Self-Balancing Robot is a robot that balances itself on just two wheels; it uses
 
 YouTube Link: https://www.youtube.com/watch?v=Fj6NBK0ggp0
 
-Research Paper: http://www.tjprc.org/publishpapers/2-4-1541397107-1.IJRRDDEC20181.pdf
+Research Paper: https://www.researchgate.net/publication/332739123
